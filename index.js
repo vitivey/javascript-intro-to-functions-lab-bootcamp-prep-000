@@ -1,1 +1,1 @@
-function (shout) {return '${shout}'
+function shout(string)) {return '${shout}'
