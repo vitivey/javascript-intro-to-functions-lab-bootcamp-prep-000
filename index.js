@@ -1,1 +1,1 @@
-function shout(string)) {return '${shout}'
+function shout(string) {return string.toUpperCase()}
